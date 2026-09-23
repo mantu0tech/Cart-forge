@@ -1,4 +1,4 @@
-# CartForge
+# CartForge   
 
 A modern e-commerce storefront UI built with React + Vite. Frontend only —
 no backend, no database, no API keys.
